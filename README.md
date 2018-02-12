@@ -21,3 +21,5 @@ For LeetCode.
 
 #### Dynamic Programming
   - 322 Coin Change
+  - 62 Unique Paths
+  - 55 Jump Game

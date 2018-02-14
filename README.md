@@ -23,3 +23,8 @@ For LeetCode.
   - 322 Coin Change
   - 62 Unique Paths
   - 55 Jump Game
+  - 91 Decode Ways
+  - 63 Unique Paths II
+  - 674 Longest Continuous Increasing Subsequence
+  - 64 Minimum Path Sum
+  - 338 Counting Bits

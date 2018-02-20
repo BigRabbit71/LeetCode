@@ -36,6 +36,10 @@ For LeetCode.
   - 188 Best Time to Buy and Sell Stock IV
   - 300 Longest Increasing Subsequence
   - 354 Russian Doll Envelopes
+  - 279 Perfect Squares
+  - 132 Palindrome Partitioning II
+
+
 
 
 

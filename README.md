@@ -38,6 +38,10 @@ For LeetCode.
   - 354 Russian Doll Envelopes
   - 279 Perfect Squares
   - 132 Palindrome Partitioning II
+  - 516 Longest Palindromic Subsequence
+  - 87 Scramble String
+
+
 
 
 

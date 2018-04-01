@@ -19,6 +19,10 @@ For LeetCode.
   - 237 Delete Node in a Linked List (easy)
   - 725 Split Linked List in Parts (medium)
 
+#### Tree
+  - 104 Maximum Depth of Binary Tree
+  - 111 Minimum Depth of Binary Tree
+
 #### Dynamic Programming
   - 322 Coin Change
   - 62 Unique Paths

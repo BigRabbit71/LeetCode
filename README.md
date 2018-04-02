@@ -20,8 +20,15 @@ For LeetCode.
   - 725 Split Linked List in Parts (medium)
 
 #### Tree
+  - 101 Symmetric Tree
   - 104 Maximum Depth of Binary Tree
   - 111 Minimum Depth of Binary Tree
+  - 226 Invert Binary Tree
+  - 437 Path Sum III
+  - 538 Convert BST to Greater Tree
+  - 543 Diameter of Binary Tree
+  - 572 Subtree of Another Tree
+  - 617 Merge Two Binary Trees
 
 #### Dynamic Programming
   - 322 Coin Change

@@ -1,12 +1,14 @@
 # LeetCode
 For LeetCode.
 
-(2018.01.15 Updated)
+(2018.04.23 Updated)
 
 ### 目前进度
 
 #### Array
   - 1 Two Sum (easy)
+    + 暴力解法：时间复杂度O(n^2)
+    + 利用map hash：时间复杂度O(n)
   - 26 Remove Duplicates from Sorted Array (easy) 
   
 #### Linked List

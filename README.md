@@ -56,6 +56,15 @@ For LeetCode.
   - 10 Regular Expression Matching
   - 44 Wildcard Matching
 
+#### 字符串相关
+  - 最长回文子串
+    + 动态规划法：时间复杂度O(n^2)，辅助空间O(n^2)
+    + 枚举中心点法：时间复杂度O(n^2)
+    + Manacher算法（not yet）
+  - 最长上升子序列
+    + 动态规划法：时间复杂度O(n^2)，辅助空间O(n)
+    + 维护tails法：时间复杂度O(nlgn)，辅助空间最差为O(n)
+
 
 
 
